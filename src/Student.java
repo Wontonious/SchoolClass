@@ -1,4 +1,7 @@
 public class Student {
+    /*
+    This method stores all the information to create a student object.
+     */
     private String firstName;
     private String lastName;
     private int grade;

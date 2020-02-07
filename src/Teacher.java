@@ -1,4 +1,7 @@
 public class Teacher {
+    /*
+    This class stores all the information to create a teacher object, including their full name and subject.
+     */
     private String firstName;
     private String lastName;
     private String subject;
